@@ -1,3 +1,3 @@
-\# SEOL_kokoa_clone_2021
+# SEOL kokoa clone_2021
 
 CSS got so much better!
